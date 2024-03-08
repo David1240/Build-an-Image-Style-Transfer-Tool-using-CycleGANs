@@ -5,11 +5,9 @@ Artists like Claude Monet are recognized for the unique styles of their works, s
 <br>
 
 # Info
-Nama: David Hamonangan Sirait
-Program: IBM Advanced AI
-Mentor: Siska Anggraeni
+Nama: David Hamonangan Sirait\
+Program: IBM Advanced AI\
+Mentor: Siska Anggraeni\
 <br>
 <br>
-
-# Tech
 
